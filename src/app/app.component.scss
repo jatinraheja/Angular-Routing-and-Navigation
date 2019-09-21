@@ -1,0 +1,21 @@
+a{
+  margin:10px;
+  text-decoration: none;
+  background: lightgray;
+  padding:10px;
+  color: black;
+}
+nav
+{
+  margin-left: 10px;
+}
+
+.component
+{
+  margin : 10px;
+}
+nav a.active
+  {
+    color: dodgerblue;
+    text-decoration: none;
+  }
